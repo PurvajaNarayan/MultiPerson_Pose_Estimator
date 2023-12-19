@@ -23,3 +23,5 @@ Within the core processing loop, each frame undergoes several stages. Firstly, t
 
 The processing loop continues until the video concludes or is manually terminated by pressing the 'q' key. By marrying the capabilities of TensorFlow for deep learning and OpenCV for image manipulation and visualization, this code exemplifies the dynamic application of the MoveNet model to real-time video data, allowing for the visualization of estimated multi-person human poses within the video stream.
 
+RESULT IMAGES
+<img width="180" alt="image" src="https://github.com/PurvajaNarayan/MultiPerson_Pose_Estimator/assets/154343922/f227ad5a-b65c-40be-acb8-54bd07ec057e">
