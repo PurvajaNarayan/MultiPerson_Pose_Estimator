@@ -24,4 +24,14 @@ Within the core processing loop, each frame undergoes several stages. Firstly, t
 The processing loop continues until the video concludes or is manually terminated by pressing the 'q' key. By marrying the capabilities of TensorFlow for deep learning and OpenCV for image manipulation and visualization, this code exemplifies the dynamic application of the MoveNet model to real-time video data, allowing for the visualization of estimated multi-person human poses within the video stream.
 
 RESULT IMAGES
-<img width="180" alt="image" src="https://github.com/PurvajaNarayan/MultiPerson_Pose_Estimator/assets/154343922/f227ad5a-b65c-40be-acb8-54bd07ec057e">
+
+
+<img width="250" alt="image" src="https://github.com/PurvajaNarayan/MultiPerson_Pose_Estimator/assets/154343922/f227ad5a-b65c-40be-acb8-54bd07ec057e"><br/>
+<img width="250" alt="image" src="https://github.com/PurvajaNarayan/MultiPerson_Pose_Estimator/assets/154343922/19aa5d75-b152-4e86-be75-3dc0b0ed3238"><br>
+<img width="250" alt="image" src="https://github.com/PurvajaNarayan/MultiPerson_Pose_Estimator/assets/154343922/b4943c1a-9dd6-46af-a590-d1dc22b26e50"><br>
+<img width="250" alt="image" src="https://github.com/PurvajaNarayan/MultiPerson_Pose_Estimator/assets/154343922/325f4d50-bb21-49c4-a347-d25e0d9bb6ef"><br>
+<img width="250" alt="image" src="https://github.com/PurvajaNarayan/MultiPerson_Pose_Estimator/assets/154343922/a5506d2a-aa5a-47ca-bddf-8d29a66da7c9">
+
+
+
+
